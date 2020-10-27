@@ -1,3 +1,5 @@
+# check uppercase , lowercase, digits and special character in a array
+
 up=0
 lo=0
 d=0
