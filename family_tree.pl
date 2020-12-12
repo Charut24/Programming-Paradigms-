@@ -1,3 +1,5 @@
+% this is a prolog code for family tree%
+
 %facts%
 female(charu).
 female(pratibha).
