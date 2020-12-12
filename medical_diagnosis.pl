@@ -1,3 +1,5 @@
+ %this is a prolog code for medical diagnosis%
+
 /* SYMPTOM */
 symptom(ananya,breathlessness).
 symptom(ananya,mucus).
